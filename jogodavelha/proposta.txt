@@ -1,0 +1,22 @@
+Poposta do programa:
+
+1. **Tabuleiro:**
+   - Use uma matriz 3x3 para representar o tabuleiro.
+   - Inicialize o tabuleiro e imprima-o no console para que os jogadores vejam.
+
+2. **Jogadores:**
+   - Defina dois jogadores, por exemplo, um usando "X" e outro usando "O".
+   - Alterne entre os jogadores para fazer seus movimentos.
+
+3. **Entrada do Usuário:**
+   - Solicite que os jogadores informem as coordenadas para fazer seus movimentos (linha e coluna).
+   - Valide se a posição escolhida está vazia e dentro dos limites do tabuleiro.
+
+4. **Atualização do Tabuleiro:**
+   - Atualize o tabuleiro com os movimentos dos jogadores.
+
+5. **Verificação de Vitória ou Empate:**
+   - Após cada movimento, verifique se algum jogador venceu (formou uma linha) ou se o jogo empatou.
+
+6. **Repetição do Jogo:**
+   - Permita que os jogadores decidam se desejam jogar novamente.
